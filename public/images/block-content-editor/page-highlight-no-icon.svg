@@ -1,15 +1,1 @@
-<svg width="414" height="134" viewBox="0 0 414 134" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="0.5" y="0.5" width="413" height="133" fill="white"/>
-<rect x="0.5" y="0.5" width="413" height="133" stroke="#D7DADE"/>
-<rect x="16.5" y="16.5" width="381" height="101" fill="#D7DADE"/>
-<rect x="16.5" y="16.5" width="381" height="101" stroke="#5694EB"/>
-<rect width="380" height="100" transform="translate(17 17)" fill="white"/>
-<rect width="380" height="100" transform="translate(17 17)" fill="#DEF3FF"/>
-<rect x="29" y="29" width="90" height="4" fill="#2B7ABC"/>
-<rect x="29" y="41" width="356" height="4" fill="#2B7ABC"/>
-<rect x="29" y="53" width="356" height="4" fill="#2B7ABC"/>
-<rect x="29" y="65" width="356" height="4" fill="#2B7ABC"/>
-<rect x="29" y="77" width="356" height="4" fill="#2B7ABC"/>
-<rect x="29" y="89" width="356" height="4" fill="#2B7ABC"/>
-<rect x="29" y="101" width="356" height="4" fill="#2B7ABC"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="414" height="134" fill="none" viewBox="0 0 414 134"><rect width="413" height="133" x=".5" y=".5" fill="#fff"/><rect width="413" height="133" x=".5" y=".5" stroke="#D7DADE"/><rect width="381" height="101" x="16.5" y="16.5" fill="#D7DADE"/><rect width="381" height="101" x="16.5" y="16.5" stroke="#5694EB"/><rect width="380" height="100" fill="#fff" transform="translate(17 17)"/><rect width="380" height="100" fill="#DEF3FF" transform="translate(17 17)"/><rect width="90" height="4" x="29" y="29" fill="#2B7ABC"/><rect width="356" height="4" x="29" y="41" fill="#2B7ABC"/><rect width="356" height="4" x="29" y="53" fill="#2B7ABC"/><rect width="356" height="4" x="29" y="65" fill="#2B7ABC"/><rect width="356" height="4" x="29" y="77" fill="#2B7ABC"/><rect width="356" height="4" x="29" y="89" fill="#2B7ABC"/><rect width="356" height="4" x="29" y="101" fill="#2B7ABC"/></svg>
